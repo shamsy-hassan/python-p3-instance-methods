@@ -45,7 +45,7 @@ fact, how do we even ask this object to do something?
 
 ## The Behavior of Objects
 
-Objects on their own don't do very much. In order to see the behavior of an
+Objects on their own don't d o very much. In order to see the behavior of an
 object, we need to interact with it to elicit a response. There are certain
 strategies for interacting with objects that allow us to access their data and
 functionality from the outside.
